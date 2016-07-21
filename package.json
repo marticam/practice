@@ -1,0 +1,31 @@
+{
+  "name": "test-with-protractor",
+  "version": "0.0.1",
+    "devDependencies": {
+    "chromedriver": "^2.8.1",
+    "grunt": "~0.4.1",
+    "grunt": ">=0.4.4",
+    "grunt-env": "0.4.4",
+    "grunt-shell-spawn": "0.3.9",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-mailgun": "0.2.1",
+    "grunt-contrib-coffee": "~0.8.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-ng-annotate": "~0.8.0",
+    "grunt-parallel": "~0.3.1",
+    "grunt-protractor-runner": "^2.1.0",
+    "grunt-protractor-webdriver": "^0.2.0",
+    "grunt-iisexpress": "*",
+    "jasmine-reporters": "<2.0.0",
+    "load-grunt-tasks": "~0.2.0",
+    "lodash": "^3.6.0",
+    "nconf": "^0.6.9",
+    "protractor": "2.3.0",
+    "protractor-html-screenshot-reporter": "0.0.21",
+    "request": "2.30.0",
+    "time-grunt": "~0.2.1",
+    "nconf": "^0.6.9",
+    "underscore": "~1.5.2"
+  }
+}
